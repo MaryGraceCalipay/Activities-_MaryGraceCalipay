@@ -1,9 +1,9 @@
 ***This activity is for the Computer Programming ll***
 Full Name: Mary Grace P Calipay
 Year and Section: BSIT 2-2
-
-
-
+Did the git hub is useful to the programers and developers?yes/no?why 
+Github makes it incredibly easy to identify and clone relevant repositories and
+GitHub is widely used and easily accessible.
 
 
 <!---
